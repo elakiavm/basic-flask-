@@ -1,4 +1,3 @@
-from mmap import PROT_READ
 from flask import Flask
 
 app = Flask(__name__)
